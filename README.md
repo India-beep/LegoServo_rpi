@@ -1,2 +1,2 @@
-# servo_rpi
-Repository for 9 V servo motor control with a Raspberry Pi.
+# LegoServo_rpi
+Repository for 9 V Lego servo motor control with a Raspberry Pi.
